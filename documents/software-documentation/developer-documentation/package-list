@@ -1,0 +1,17 @@
+com.contentwire
+com.contentwire.model
+com.contentwire.repository
+com.contentwire.service.email.management
+com.contentwire.service.resource.management
+com.contentwire.ui.display.auth
+com.contentwire.ui.display.composer
+com.contentwire.ui.display.dashboard
+com.contentwire.ui.display.dashboard.components.elements.buttons
+com.contentwire.ui.display.dashboard.components.elements.panels
+com.contentwire.ui.display.dashboard.components.elements.tables
+com.contentwire.ui.display.dashboard.components.menu
+com.contentwire.ui.display.dashboard.components.pages
+com.contentwire.ui.display.dashboard.components.pages.orchestrator.pages
+com.contentwire.ui.display.dashboard.components.pages.responsible.pages
+com.contentwire.ui.display.relation.manager
+com.contentwire.ui.window.router.exceptions
